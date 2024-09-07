@@ -1,6 +1,6 @@
 package day04_homework;
 
-<<<<<<< HEAD
+
 import java.util.Scanner;
 
 public class homework2 {
@@ -34,7 +34,5 @@ public class homework2 {
         }
         System.out.println("最小值为" + min);
     }
-=======
-public class homework2 {
->>>>>>> 26330c7a267c6c168e959a386252cdf884a3a5bc
+
 }
