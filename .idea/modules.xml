@@ -7,8 +7,33 @@
       <module fileurl="file://$PROJECT_DIR$/day04_code_module/day04_code_module.iml" filepath="$PROJECT_DIR$/day04_code_module/day04_code_module.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05_code_module/day05_code_module.iml" filepath="$PROJECT_DIR$/day05_code_module/day05_code_module.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06_code_module/day06_code_module.iml" filepath="$PROJECT_DIR$/day06_code_module/day06_code_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_code_module/day07_code_module.iml" filepath="$PROJECT_DIR$/day07_code_module/day07_code_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08CodeModule/day08CodeModule.iml" filepath="$PROJECT_DIR$/day08CodeModule/day08CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09CodeModule/day09CodeModule.iml" filepath="$PROJECT_DIR$/day09CodeModule/day09CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10CodeModule/day10CodeModule.iml" filepath="$PROJECT_DIR$/day10CodeModule/day10CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11CodeModule/day11CodeModule.iml" filepath="$PROJECT_DIR$/day11CodeModule/day11CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13CodeModule/day13CodeModule.iml" filepath="$PROJECT_DIR$/day13CodeModule/day13CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14CodeModule/day14CodeModule.iml" filepath="$PROJECT_DIR$/day14CodeModule/day14CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15CodeModule/day15CodeModule.iml" filepath="$PROJECT_DIR$/day15CodeModule/day15CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16jigsawgame/day16jigsawgame.iml" filepath="$PROJECT_DIR$/day16jigsawgame/day16jigsawgame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day18CodeModule/day18CodeModule.iml" filepath="$PROJECT_DIR$/day18CodeModule/day18CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20CodeModule/day20CodeModule.iml" filepath="$PROJECT_DIR$/day20CodeModule/day20CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21CodeModule/day21CodeModule.iml" filepath="$PROJECT_DIR$/day21CodeModule/day21CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22CodeModule/day22CodeModule.iml" filepath="$PROJECT_DIR$/day22CodeModule/day22CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23CodeModule/day23CodeModule.iml" filepath="$PROJECT_DIR$/day23CodeModule/day23CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24CodeModule/day24CodeModule.iml" filepath="$PROJECT_DIR$/day24CodeModule/day24CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25CodeModule/day25CodeModule.iml" filepath="$PROJECT_DIR$/day25CodeModule/day25CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26CodeModule/day26CodeModule.iml" filepath="$PROJECT_DIR$/day26CodeModule/day26CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day28CodeModule/day28CodeModule.iml" filepath="$PROJECT_DIR$/day28CodeModule/day28CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day29CodeModule/day29CodeModule.iml" filepath="$PROJECT_DIR$/day29CodeModule/day29CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day30CodeModule/day30CodeModule.iml" filepath="$PROJECT_DIR$/day30CodeModule/day30CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day33CodeModule/day33CodeModule.iml" filepath="$PROJECT_DIR$/day33CodeModule/day33CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day35CodeModule/day35CodeModule.iml" filepath="$PROJECT_DIR$/day35CodeModule/day35CodeModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diary/diary.iml" filepath="$PROJECT_DIR$/diary/diary.iml" />
       <module fileurl="file://$PROJECT_DIR$/heima_homework/heima_homework.iml" filepath="$PROJECT_DIR$/heima_homework/heima_homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_study_code.iml" filepath="$PROJECT_DIR$/.idea/java_study_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzlegame/puzzlegame.iml" filepath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketHomeWork/socketHomeWork.iml" filepath="$PROJECT_DIR$/socketHomeWork/socketHomeWork.iml" />
     </modules>
   </component>
 </project>
