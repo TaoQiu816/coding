@@ -7,11 +7,20 @@ public class Student {
     public Student() {
     }
 
-    public Student(String name, int age) {
-        this.name = name;
-        this.age = age;
+
+
+    private Student(String name){
+        this.name=name;
     }
 
+    private Student(int  age){
+        this.age=age;
+    }
+
+    protected Student(String name, int age){
+        this.name=name;
+        this.age=age;
+    }
     /**
      * 获取
      * @return name
